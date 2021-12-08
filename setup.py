@@ -11,7 +11,7 @@ setup(
     author='Ryan McKenna',
     author_email='rmckenna21@gmail.com',
     license='Apache License 2.0',
-    packages=['private_pgm'],
-    package_dir={'private_pgm': 'src'},
+    packages=['mbi'],
+    package_dir={'': 'src'},
     install_requires=requirements,
 )
